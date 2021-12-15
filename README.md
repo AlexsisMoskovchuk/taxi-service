@@ -2,8 +2,8 @@
 
 ## General info
 This project created for show my first steps in Java with - OOP, SOLID principles, Servlet, Dao, Jdbc.
-Supports login, registration account, add driver / cars / manufacturers and get them in list.
-Work all CRUD operations with database - in this case MySQL.
+Supports login, registration account, add drivers / cars / manufacturers and get them in list.
+Work all CRUD operations with a database - in this case MySQL.
 
 ## Technologies Stack
 * Java 11
@@ -13,10 +13,8 @@ Work all CRUD operations with database - in this case MySQL.
 * Tomcat 9.0.55
 * Jstl
 ## Setup info
-* install MySQL 8.0.27 
-* install JDK 11 
-* install Tomcat 9.0.50
-* fork this project
-* run init_db.sql in ur database
-* configure ConnectionUtil with ur database url/login/password
-* run using Tomcat
+* Install MySQL 8.0.27 * Install JDK 11
+* Install Tomcat 9.0.50* Fork this project
+* Run init_db.sql in your database
+* Configure ConnectionUtil with ur database url/login/password
+* Run using Tomcat
